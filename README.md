@@ -1,3 +1,6 @@
+
+
+
 <h1 align="center">Hey there 👋, I'm C Bharath Varma</h1>
 <h3 align="center">Building tech with purpose — blending engineering, user empathy, and execution.</h3>
 
@@ -63,13 +66,14 @@
 
 | Product | Stack | Description |
 |--------|-------|-------------|
-| 🔐 **FaceAuth 2FA** | Django, Firebase, AI | Facial-auth login system to secure sensitive data. |
-| 💬 **Mediate** | Django | A social platform for teens to collaborate & vent. |
-| 📈 **Stockzilla** | Flutter, Supabase | A gamified stock-market simulator. |
-| 📚 **Online Book Library** | Django, PostgreSQL | Free e-library to read and manage books. |
-| 🗺️ **City Explorer** | React, Maps API | A travel companion with geo-tagged bookmarks. |
-| 🤖 **AI Task Assistant** | JS, NLP, Firebase | Smart scheduling assistant via natural commands. |
-| 🎓 **PracticalLearn** | Figma, EdTech Stack | Learning platform focused on real-world projects. |
+| **FaceAuth 2FA** | Django, Firebase, AI | Facial-auth login system to secure sensitive data. | 
+| **Mediate** | Django | A social platform for teens to collaborate & vent. |
+| **Stockzilla** | Flutter, Supabase | A gamified stock-market simulator. |
+| **Online Book Library** | Django, PostgreSQL | Free e-library to read and manage books. |
+| **City Explorer** | React, Maps API | A travel companion with geo-tagged bookmarks. |
+| **AI Task Assistant** | JS, NLP, Firebase | Smart scheduling assistant via natural commands. |
+| **PracticalLearn** | Figma, EdTech Stack | Learning platform focused on real-world projects. |
+| **WireLoopGame** | Next.js, FireBase | A Wireloop Game |
 
 ---
 
