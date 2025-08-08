@@ -1,6 +1,3 @@
-
-
-
 <h1 align="center">Hey there 👋, I'm C Bharath Varma</h1>
 <h3 align="center">Building tech with purpose — blending engineering, user empathy, and execution.</h3>
 
@@ -113,10 +110,3 @@ Want to work on impactful tech, talk product design, or jam on CTFs?
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharath-varma&layout=compact&theme=tokyonight" height="180px"/>
 </p>
 
----
-
-### 🧭 Philosophy
-
-> "The best products aren't just built. They're understood, iterated, and experienced."
-
----
